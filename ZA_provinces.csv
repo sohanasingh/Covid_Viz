@@ -332,3 +332,228 @@ No,Date,Province,Confirmed
 331,04-14-20,Northern Cape,16
 332,04-14-20,North West,22
 333,04-14-20,Western Cape,643
+334,04-15-20,Eastern Cape,199
+335,04-15-20,Free State,97
+336,04-15-20,Gauteng,930
+337,04-15-20,KwaZulu-Natal,519
+338,04-15-20,Limpopo,25
+339,04-15-20,Mpumalanga,22
+340,04-15-20,Northern Cape,16
+341,04-15-20,North West,23
+342,04-15-20,Western Cape,657
+343,04-16-20,Eastern Cape,220
+344,04-16-20,Free State,98
+345,04-16-20,Gauteng,969
+346,04-16-20,KwaZulu-Natal,539
+347,04-16-20,Limpopo,26
+348,04-16-20,Mpumalanga,22
+349,04-16-20,Northern Cape,16
+350,04-16-20,North West,24
+351,04-16-20,Western Cape,675
+352,04-17-20,Eastern Cape,246
+353,04-17-20,Free State,100
+354,04-17-20,Gauteng,1018
+355,04-17-20,KwaZulu-Natal,591
+356,04-17-20,Limpopo,26
+357,04-17-20,Mpumalanga,23
+358,04-17-20,Northern Cape,16
+359,04-17-20,North West,24
+360,04-17-20,Western Cape,717
+361,04-18-20,Eastern Cape,270
+362,04-18-20,Free State,100
+363,04-18-20,Gauteng,1101
+364,04-18-20,KwaZulu-Natal,604
+365,04-18-20,Limpopo,26
+366,04-18-20,Mpumalanga,25
+367,04-18-20,Northern Cape,16
+368,04-18-20,North West,24
+369,04-18-20,Western Cape,836
+370,04-19-20,Eastern Cape,293
+371,04-19-20,Free State,100
+372,04-19-20,Gauteng,1148
+373,04-19-20,KwaZulu-Natal,617
+374,04-19-20,Limpopo,27
+375,04-19-20,Mpumalanga,23
+376,04-19-20,Northern Cape,16
+377,04-19-20,North West,24
+378,04-19-20,Western Cape,868
+379,04-20-20,Eastern Cape,310
+380,04-20-20,Free State,105
+381,04-20-20,Gauteng,1170
+382,04-20-20,KwaZulu-Natal,639
+383,04-20-20,Limpopo,27
+384,04-20-20,Mpumalanga,23
+385,04-20-20,Northern Cape,18
+386,04-20-20,North West,25
+387,04-20-20,Western Cape,940
+388,04-21-20,Eastern Cape,345
+389,04-21-20,Free State,106
+390,04-21-20,Gauteng,1199
+391,04-21-20,KwaZulu-Natal,671
+392,04-21-20,Limpopo,27
+393,04-21-20,Mpumalanga,24
+394,04-21-20,Northern Cape,16
+395,04-21-20,North West,24
+396,04-21-20,Western Cape,1010
+397,04-22-20,Eastern Cape,377
+398,04-22-20,Free State,106
+399,04-22-20,Gauteng,1224
+400,04-22-20,KwaZulu-Natal,758
+401,04-22-20,Limpopo,27
+402,04-22-20,Mpumalanga,23
+403,04-22-20,Northern Cape,16
+404,04-22-20,North West,24
+405,04-22-20,Western Cape,1079
+406,04-23-20,Eastern Cape,417
+407,04-23-20,Free State,106
+408,04-23-20,Gauteng,1252
+409,04-23-20,KwaZulu-Natal,807
+410,04-23-20,Limpopo,27
+411,04-23-20,Mpumalanga,23
+412,04-23-20,Northern Cape,16
+413,04-23-20,North West,25
+414,04-23-20,Western Cape,1279
+415,04-24-20,Eastern Cape,480
+416,04-24-20,Free State,111
+417,04-24-20,Gauteng,1281
+418,04-24-20,KwaZulu-Natal,841
+419,04-24-20,Limpopo,29
+420,04-24-20,Mpumalanga,24
+421,04-24-20,Northern Cape,16
+422,04-24-20,North West,25
+423,04-24-20,Western Cape,1413
+424,04-25-20,Eastern Cape,488
+425,04-25-20,Free State,111
+426,04-25-20,Gauteng,1304
+427,04-25-20,KwaZulu-Natal,841
+428,04-25-20,Limpopo,30
+429,04-25-20,Mpumalanga,23
+430,04-25-20,Northern Cape,16
+431,04-25-20,North West,28
+432,04-25-20,Western Cape,1514
+433,04-26-20,Eastern Cape,535
+434,04-26-20,Free State,110
+435,04-26-20,Gauteng,1331
+436,04-26-20,KwaZulu-Natal,863
+437,04-26-20,Limpopo,31
+438,04-26-20,Mpumalanga,23
+439,04-26-20,Northern Cape,17
+440,04-26-20,North West,28
+441,04-26-20,Western Cape,1608
+442,04-27-20,Eastern Cape,588
+443,04-27-20,Free State,111
+444,04-27-20,Gauteng,1353
+445,04-27-20,KwaZulu-Natal,902
+446,04-27-20,Limpopo,31
+447,04-27-20,Mpumalanga,26
+448,04-27-20,Northern Cape,17
+449,04-27-20,North West,31
+450,04-27-20,Western Cape,1737
+451,04-28-20,Eastern Cape,616
+452,04-28-20,Free State,113
+453,04-28-20,Gauteng,1377
+454,04-28-20,KwaZulu-Natal,919
+455,04-28-20,Limpopo,31
+456,04-28-20,Mpumalanga,26
+457,04-28-20,Northern Cape,17
+458,04-28-20,North West,29
+459,04-28-20,Western Cape,1870
+460,04-29-20,Eastern Cape,630
+461,04-29-20,Free State,113
+462,04-29-20,Gauteng,1408
+463,04-29-20,KwaZulu-Natal,956
+464,04-29-20,Limpopo,31
+465,04-29-20,Mpumalanga,31
+466,04-29-20,Northern Cape,17
+467,04-29-20,North West,29
+468,04-29-20,Western Cape,2135
+469,04-30-20,Eastern Cape,647
+470,04-30-20,Free State,116
+471,04-30-20,Gauteng,1446
+472,04-30-20,KwaZulu-Natal,980
+473,04-30-20,Limpopo,32
+474,04-30-20,Mpumalanga,36
+475,04-30-20,Northern Cape,17
+476,04-30-20,North West,31
+477,04-30-20,Western Cape,2342
+478,05-01-20,Eastern Cape,691
+479,05-01-20,Free State,118
+480,05-01-20,Gauteng,1507
+481,05-01-20,KwaZulu-Natal,1006
+482,05-01-20,Limpopo,34
+483,05-01-20,Mpumalanga,35
+484,05-01-20,Northern Cape,18
+485,05-01-20,North West,35
+486,05-01-20,Western Cape,2507
+487,05-02-20,Eastern Cape,732
+488,05-02-20,Free State,121
+489,05-02-20,Gauteng,1598
+490,05-02-20,KwaZulu-Natal,1051
+491,05-02-20,Limpopo,36
+492,05-02-20,Mpumalanga,40
+493,05-02-20,Northern Cape,23
+494,05-02-20,North West,35
+495,05-02-20,Western Cape,2700
+496,05-03-20,Eastern Cape,774
+497,05-03-20,Free State,122
+498,05-03-20,Gauteng,1624
+499,05-03-20,KwaZulu-Natal,1076
+500,05-03-20,Limpopo,37
+501,05-03-20,Mpumalanga,46
+502,05-03-20,Northern Cape,24
+503,05-03-20,North West,36
+504,05-03-20,Western Cape,3044
+505,05-04-20,Eastern Cape,814
+506,05-04-20,Free State,125
+507,05-04-20,Gauteng,1651
+508,05-04-20,KwaZulu-Natal,1106
+509,05-04-20,Limpopo,39
+510,05-04-20,Mpumalanga,53
+511,05-04-20,Northern Cape,25
+512,05-04-20,North West,35
+513,05-04-20,Western Cape,3362
+514,05-05-20,Eastern Cape,838
+515,05-05-20,Free State,128
+516,05-05-20,Gauteng,1697
+517,05-05-20,KwaZulu-Natal,1142
+518,05-05-20,Limpopo,40
+519,05-05-20,Mpumalanga,57
+520,05-05-20,Northern Cape,26
+521,05-05-20,North West,35
+522,05-05-20,Western Cape,3609
+523,05-06-20,Eastern Cape,849
+524,05-06-20,Free State,130
+525,05-06-20,Gauteng,1720
+526,05-06-20,KwaZulu-Natal,1149
+527,05-06-20,Limpopo,40
+528,05-06-20,Mpumalanga,57
+529,05-06-20,Northern Cape,26
+530,05-06-20,North West,37
+531,05-06-20,Western Cape,3760
+532,05-07-20,Eastern Cape,929
+533,05-07-20,Free State,134
+534,05-07-20,Gauteng,1804
+535,05-07-20,KwaZulu-Natal,1204
+536,05-07-20,Limpopo,41
+537,05-07-20,Mpumalanga,59
+538,05-07-20,Northern Cape,27
+539,05-07-20,North West,40
+540,05-07-20,Western Cape,3994
+541,05-08-20,Eastern Cape,989
+542,05-08-20,Free State,133
+543,05-08-20,Gauteng,1851
+544,05-08-20,KwaZulu-Natal,1253
+545,05-08-20,Limpopo,43
+546,05-08-20,Mpumalanga,60
+547,05-08-20,Northern Cape,27
+548,05-08-20,North West,42
+549,05-08-20,Western Cape,4497
+550,05-09-20,Eastern Cape,1078
+551,05-09-20,Free State,134
+552,05-09-20,Gauteng,1910
+553,05-09-20,KwaZulu-Natal,1308
+554,05-09-20,Limpopo,51
+555,05-09-20,Mpumalanga,61
+556,05-09-20,Northern Cape,28
+557,05-09-20,North West,41
+558,05-09-20,Western Cape,4809
